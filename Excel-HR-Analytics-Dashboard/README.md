@@ -2,8 +2,6 @@
 
 A simple, interactive dashboard that shows **who works at a company, who leaves, and how much they are paid**. Built fully in Microsoft Excel.
 
-!\[HR Analytics Dashboard](images/dashboard-preview.png)
-
 ## What is this project?
 
 A company wants to know: *How many employees are leaving? Are they happy? Is pay fair?*
